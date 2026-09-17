@@ -1,0 +1,34 @@
+# Private inputs and credentials
+accounts.py
+accounts copy.py
+devices.json
+comment_text.py
+.env
+.env.*
+*.txt
+!requirements.txt
+!requirements-lock.txt
+# Machine environments and generated state
+.venv*/
+__pycache__/
+*.pyc
+.vscode/
+node_modules/
+*.log
+*.pid
+*.sqlite3*
+*.png
+*.xml
+comment_progress.json
+login_status.json
+progress.json
+device_state/
+data/
+errors/
+ui_dumps/
+live_*_results/
+profile_inspection/
+comments.paused
+comments.stop
+dist/
+.tools/
