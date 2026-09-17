@@ -1,0 +1,12 @@
+{
+  "devices": [
+    {
+      "name": "phone1",
+      "enabled": true,
+      "udid": "REPLACE_WITH_ADB_SERIAL",
+      "system_port": 9205,
+      "appium_server": "http://127.0.0.1:4725",
+      "accounts": [{"username": "YOUR_INSTAGRAM_USERNAME"}]
+    }
+  ]
+}
